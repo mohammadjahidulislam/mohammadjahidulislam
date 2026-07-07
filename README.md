@@ -14,10 +14,10 @@ I'm an undergraduate ICT student with an interest in software development, progr
 ## Skills
 
 - Java
-- Python
 - C
 - HTML & CSS
 - Git & GitHub
+- C++
 
 ---
 
@@ -27,12 +27,14 @@ I'm an undergraduate ICT student with an interest in software development, progr
 - Operating Systems
 - Database Management Systems
 - Web Development
+- Object Oriented Program(Java)
+
 
 ---
 
 ## Projects
 
-Coming soon...
+comming soon.....
 
 ---
 
@@ -46,8 +48,9 @@ Mawlana Bhashani Science and Technology University (MBSTU)
 
 ## Contact
 
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: m
+- GitHub: https://github.com/mohammadjahidulislam
+- Email: mohammadjahidilislam18@gmail.com
+- Mobile :01775087826
 
 ---
 
