@@ -49,7 +49,7 @@ Mawlana Bhashani Science and Technology University (MBSTU)
 ## Contact
 
 - GitHub: https://github.com/mohammadjahidulislam
-- Email: mohammadjahidilislam18@gmail.com
+- Email: mohammadjahidulislam18@gmail.com
 - Mobile :01775087826
 
 ---
